@@ -1,5 +1,8 @@
 {
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
-  "projects": {}
+  "projects": {
+    "pub-lib-1": "packages/pub-lib-1",
+    "pub-lib-2": "packages/pub-lib-2"
+  }
 }

@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@jericopingul/pub-lib-1": ["packages/pub-lib-1/src/index.ts"],
+      "@jericopingul/pub-lib-2": ["packages/pub-lib-2/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

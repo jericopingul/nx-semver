@@ -1,0 +1,13 @@
+{
+  "name": "@jericopingul/pub-lib-2",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jericopingul/nx-semver.git",
+    "directory": "packages/pub-lib-2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
