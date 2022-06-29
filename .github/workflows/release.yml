@@ -22,7 +22,7 @@ jobs:
       - name: Derive appropriate SHAs for base and head for `nx affected` commands
         uses: nrwl/nx-set-shas@v2
 
-      - name: Setup git user to "🤖 JSCutlery Bot"
+      - name: Setup git user to "🤖 Jerico Bot"
         shell: bash
         run: git config user.email "-" && git config user.name "🤖 Jerico Bot"
 

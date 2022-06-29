@@ -18,7 +18,7 @@
       "options": {
         "push": true,
         "noVerify": true,
-        "postTargets": ["semver:publish", "semver:github"],
+        "postTargets": ["pub-lib-2:publish", "pub-lib-2:github"],
         "commitMessageFormat": "release(${projectName}): 🚢 cut release to ${version}"
       }
     },
