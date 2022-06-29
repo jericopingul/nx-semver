@@ -13,17 +13,27 @@
         "assets": ["packages/pub-lib-1/*.md"]
       }
     },
+    "version": {
+      "executor": "@jscutlery/semver:version",
+      "options": {
+        "push": true,
+        "noVerify": true,
+        "postTargets": ["semver:publish", "semver:github"],
+        "commitMessageFormat": "release(${projectName}): 🚢 cut release to ${version}"
+      }
+    },
+    "github": {
+      "executor": "@jscutlery/semver:github",
+      "options": {
+        "tag": "${tag}",
+        "notes": "${notes}"
+      }
+    },
     "publish": {
       "executor": "@nrwl/workspace:run-commands",
       "options": {
-        "command": "node tools/scripts/publish.mjs pub-lib-1 {args.ver} {args.tag}"
-      },
-      "dependsOn": [
-        {
-          "projects": "self",
-          "target": "build"
-        }
-      ]
+        "command": "npm publish"
+      }
     },
     "lint": {
       "executor": "@nrwl/linter:eslint",
