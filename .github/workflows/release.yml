@@ -22,6 +22,10 @@ jobs:
       - name: Derive appropriate SHAs for base and head for `nx affected` commands
         uses: nrwl/nx-set-shas@v2
 
+      - name: Setup git user to "🤖 JSCutlery Bot"
+        shell: bash
+        run: git config user.email "-" && git config user.name "🤖 Jerico Bot"
+
       - name: Setup Node.js 16.x
         uses: actions/setup-node@v3
         with:
@@ -31,7 +35,7 @@ jobs:
         run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" > .npmrc
 
       - name: Install Dependencies
-        run: yarn install
+        run: yarn install --frozen-lockfile
 
       - name: Build Projects
         run: yarn nx affected:build
