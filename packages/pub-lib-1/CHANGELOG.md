@@ -8,6 +8,16 @@ This file was generated using [@jscutlery/semver](https://github.com/jscutlery/s
 ### Features
 
 * 7 ([0660809](https://github.com/jericopingul/nx-semver/commit/06608099c1bdddb8ed4bbda289f8c3fbca38443b))
+* 8 ([8fb0bdf](https://github.com/jericopingul/nx-semver/commit/8fb0bdf81f87d9fbf42acdc26eebaee7a8dcd4dd))
+
+
+
+# [0.2.0](https://github.com/jericopingul/nx-semver/compare/pub-lib-1-0.1.0...pub-lib-1-0.2.0) (2022-06-29)
+
+
+### Features
+
+* 7 ([0660809](https://github.com/jericopingul/nx-semver/commit/06608099c1bdddb8ed4bbda289f8c3fbca38443b))
 
 
 
