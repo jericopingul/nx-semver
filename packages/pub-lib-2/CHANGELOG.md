@@ -2,6 +2,16 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [0.8.0](https://github.com/jericopingul/nx-semver/compare/pub-lib-2-0.7.0...pub-lib-2-0.8.0) (2022-06-30)
+
+
+### Features
+
+* no parallel ([f7edfb7](https://github.com/jericopingul/nx-semver/commit/f7edfb7cee3237c5e153829c71093a74ef6a62f8))
+* try no parallel again ([215686d](https://github.com/jericopingul/nx-semver/commit/215686d360c60f574fcf1fd6d34d4aeb8aeccb68))
+
+
+
 # [0.7.0](https://github.com/jericopingul/nx-semver/compare/pub-lib-2-0.6.0...pub-lib-2-0.7.0) (2022-06-30)
 
 
