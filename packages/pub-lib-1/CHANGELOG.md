@@ -8,6 +8,18 @@ This file was generated using [@jscutlery/semver](https://github.com/jscutlery/s
 ### Features
 
 * both ([f2aae54](https://github.com/jericopingul/nx-semver/commit/f2aae5479fbf728c037fb9ed52020343dd00592c))
+* no parallel ([f7edfb7](https://github.com/jericopingul/nx-semver/commit/f7edfb7cee3237c5e153829c71093a74ef6a62f8))
+* try both ([3bd39f3](https://github.com/jericopingul/nx-semver/commit/3bd39f33aa27f5d5685dc2943ebea534e67fdb29))
+* try no parallel again ([215686d](https://github.com/jericopingul/nx-semver/commit/215686d360c60f574fcf1fd6d34d4aeb8aeccb68))
+
+
+
+# [0.4.0](https://github.com/jericopingul/nx-semver/compare/pub-lib-1-0.3.0...pub-lib-1-0.4.0) (2022-06-30)
+
+
+### Features
+
+* both ([f2aae54](https://github.com/jericopingul/nx-semver/commit/f2aae5479fbf728c037fb9ed52020343dd00592c))
 * try both ([3bd39f3](https://github.com/jericopingul/nx-semver/commit/3bd39f33aa27f5d5685dc2943ebea534e67fdb29))
 
 
