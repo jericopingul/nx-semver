@@ -5,6 +5,20 @@ This file was generated using [@jscutlery/semver](https://github.com/jscutlery/s
 # [0.5.0](https://github.com/jericopingul/nx-semver/compare/pub-lib-2-0.4.0...pub-lib-2-0.5.0) (2022-06-30)
 
 
+### Bug Fixes
+
+* npmrc ([2482afd](https://github.com/jericopingul/nx-semver/commit/2482afd62ba820d39ce4fc9dca8846628c9070bf))
+
+
+### Features
+
+* 10 ([7ff9b35](https://github.com/jericopingul/nx-semver/commit/7ff9b35549e0cbd50a1c67389948e32bb4c0f4d1))
+
+
+
+# [0.5.0](https://github.com/jericopingul/nx-semver/compare/pub-lib-2-0.4.0...pub-lib-2-0.5.0) (2022-06-30)
+
+
 ### Features
 
 * 10 ([7ff9b35](https://github.com/jericopingul/nx-semver/commit/7ff9b35549e0cbd50a1c67389948e32bb4c0f4d1))
