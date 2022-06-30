@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [0.4.0](https://github.com/jericopingul/nx-semver/compare/pub-lib-1-0.3.0...pub-lib-1-0.4.0) (2022-06-30)
+
+
+### Features
+
+* both ([f2aae54](https://github.com/jericopingul/nx-semver/commit/f2aae5479fbf728c037fb9ed52020343dd00592c))
+
+
+
 # [0.3.0](https://github.com/jericopingul/nx-semver/compare/pub-lib-1-0.2.1...pub-lib-1-0.3.0) (2022-06-30)
 
 
