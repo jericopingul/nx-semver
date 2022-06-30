@@ -35,9 +35,9 @@ jobs:
           # from NPM_AUTH_TOKEN environment variable.
           # It actually creates a .npmrc in a temporary folder
           # and sets the NPM_CONFIG_USERCONFIG environment variable.
-          registry-url: https://registry.npmjs.org
+          registry-url: https://npm.pkg.github.com
 
-
+      - name: Echo npm config
         run: echo "$NPM_CONFIG_USERCONFIG" && cat .npmrc
 
       - name: Setup npmrc
