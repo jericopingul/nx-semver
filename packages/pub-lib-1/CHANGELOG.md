@@ -2,6 +2,16 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [0.2.1](https://github.com/jericopingul/nx-semver/compare/pub-lib-1-0.2.0...pub-lib-1-0.2.1) (2022-06-30)
+
+
+### Bug Fixes
+
+* release yml ([a94cd0a](https://github.com/jericopingul/nx-semver/commit/a94cd0a2b2aea96c68579bdc847349b7c6dfa8da))
+* release.yml ([d745eea](https://github.com/jericopingul/nx-semver/commit/d745eeacf2b839f3c85e00da13960081e5d89d16))
+
+
+
 # [0.2.0](https://github.com/jericopingul/nx-semver/compare/pub-lib-1-0.1.0...pub-lib-1-0.2.0) (2022-06-30)
 
 
