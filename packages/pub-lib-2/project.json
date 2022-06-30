@@ -32,7 +32,7 @@
     "publish": {
       "executor": "@nrwl/workspace:run-commands",
       "options": {
-        "cwd": "dist/packages/pub-lib-1",
+        "cwd": "dist/packages/pub-lib-2",
         "command": "npm publish"
       }
     },
