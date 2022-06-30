@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [0.5.1](https://github.com/jericopingul/nx-semver/compare/pub-lib-2-0.5.0...pub-lib-2-0.5.1) (2022-06-30)
+
+
+### Bug Fixes
+
+* use ngx deploy ([5f4e293](https://github.com/jericopingul/nx-semver/commit/5f4e2934790a0299cc8675d5bd051e3e13090535))
+
+
+
 # [0.5.0](https://github.com/jericopingul/nx-semver/compare/pub-lib-2-0.4.0...pub-lib-2-0.5.0) (2022-06-30)
 
 
