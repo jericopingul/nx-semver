@@ -1,3 +1,3 @@
 export function pubLib2(): string {
-  return 'v11';
+  return 'v12';
 }

@@ -53,7 +53,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
-        run: yarn nx affected --base=last-release --target=version --parallel=0
+        run: yarn nx affected --base=last-release --target=version --parallel=1
 
       - name: Tag last-release
         shell: bash
